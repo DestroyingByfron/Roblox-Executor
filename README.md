@@ -5,3 +5,5 @@ A working roblox executor that I made when I was bored. You can download the fol
 
 sometimes the injector might not be found, and this is likely because your antivirus deleted it or because your system is incompatible. you can try redownloading it and see if it works. 
 (ps: the inector gets flagged because its a false postitive as it injects into the game)
+
+if it doesnt work you could try: https://github.com/DestroyingByfron/Roblox-Executor-Alt 
